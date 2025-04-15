@@ -1,3 +1,4 @@
 pandas
-streamlit
 nbconvert
+streamlit
+streamlit_lottie
