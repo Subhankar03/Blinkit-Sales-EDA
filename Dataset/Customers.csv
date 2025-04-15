@@ -1,0 +1,301 @@
+CustomerID,Name,Phone,Address,City,Operating System
+1,Kavya Reddy,9193214172,"Koramangala, Delhi",Delhi,Android
+2,Siddharth Joshi,1628503012,"Civil Lines, Jaipur",Bangalore,Android
+3,Neha Joshi,6430427670,"Civil Lines, Hyderabad",Bangalore,Android
+4,Siddharth Mehta,2645852001,"MG Road, Jaipur",Pune,Android
+5,Rajesh Reddy,2428071930,"Koramangala, Pune",Pune,Android
+6,Amit Khan,190541137,"Gachibowli, Mumbai",Surat,Android
+7,Siddharth Reddy,8936103237,"Gachibowli, Jaipur",Chennai,Android
+8,Ishani Pandey,6107304510,"Satellite, Ahmedabad",Delhi,Android
+9,Aarav Mehta,772118191,"Koramangala, Ahmedabad",Delhi,Android
+10,Ananya Chopra,1694228116,"Andheri West, Hyderabad",Kolkata,Android
+11,Rajesh Pandey,8478848980,"Gachibowli, Ahmedabad",Bangalore,Android
+12,Rohit Singh,4559839849,"Andheri West, Hyderabad",Pune,Android
+13,Aarav Sharma,9412974585,"Koramangala, Jaipur",Mumbai,Android
+14,Rajesh Singh,8990988243,"Koramangala, Pune",Mumbai,Android
+15,Rajesh Chopra,1481868737,"Malviya Nagar, Hyderabad",Bangalore,Android
+16,Rajesh Mehta,4672353920,"Civil Lines, Hyderabad",Bangalore,Android
+17,Rohit Pandey,4625735153,"Malviya Nagar, Delhi",Ahmedabad,Android
+18,Rohit Khan,9123848204,"Satellite, Jaipur",Bangalore,Android
+19,Rajesh Khan,295343848,"Gachibowli, Pune",Hyderabad,Android
+20,Amit Pandey,1026389909,"Malviya Nagar, Bangalore",Hyderabad,iOS
+21,Ishani Reddy,2508355230,"Malviya Nagar, Hyderabad",Mumbai,Android
+22,Ananya Patel,1797224182,"Civil Lines, Hyderabad",Bangalore,Android
+23,Kavya Chopra,7825409281,"Koramangala, Mumbai",Hyderabad,Android
+24,Pooja Reddy,3411593260,"MG Road, Ahmedabad",Delhi,Android
+25,Neha Mehta,2553167252,"Andheri West, Mumbai",Mumbai,Android
+26,Siddharth Mehta,9123856567,"Satellite, Jaipur",Pune,Android
+27,Rohit Mehta,2418889877,"Satellite, Jaipur",Ahmedabad,Android
+28,Kavya Reddy,5435837231,"Civil Lines, Delhi",Hyderabad,Android
+29,Kavya Khan,3267207003,"Andheri West, Delhi",Pune,Android
+30,Ishani Pandey,5888593917,"Andheri West, Delhi",Bangalore,Android
+31,Pooja Reddy,1821354737,"Satellite, Mumbai",Delhi,Android
+32,Siddharth Khan,6714583573,"Satellite, Delhi",Mumbai,Android
+33,Pooja Singh,5356402137,"MG Road, Ahmedabad",Jaipur,Android
+34,Neha Khan,4571657261,"Andheri West, Pune",Delhi,Android
+35,Neha Pandey,9612213363,"MG Road, Pune",Kolkata,Android
+36,Neha Chopra,7044028318,"Civil Lines, Jaipur",Mumbai,Android
+37,Siddharth Khan,6828242068,"Andheri West, Mumbai",Delhi,Android
+38,Pooja Mehta,6983872542,"Malviya Nagar, Jaipur",Delhi,Android
+39,Kavya Mehta,9421711987,"Malviya Nagar, Pune",Pune,Android
+40,Kavya Joshi,4181441465,"Satellite, Jaipur",Pune,Android
+41,Amit Chopra,2362700098,"Satellite, Hyderabad",Mumbai,Android
+42,Pooja Pandey,4094169273,"Civil Lines, Bangalore",Hyderabad,Android
+43,Neha Patel,4496257370,"Malviya Nagar, Ahmedabad",Mumbai,Android
+44,Siddharth Chopra,8730442646,"MG Road, Bangalore",Ahmedabad,Android
+45,Neha Sharma,9982963201,"Civil Lines, Bangalore",Mumbai,Android
+46,Ananya Reddy,5545771842,"Gachibowli, Mumbai",Kolkata,Android
+47,Ananya Reddy,5627502427,"Malviya Nagar, Hyderabad",Chennai,Android
+48,Ananya Khan,1954956073,"Satellite, Hyderabad",Surat,Android
+49,Pooja Chopra,5697693330,"Koramangala, Ahmedabad",Bangalore,Android
+50,Aarav Pandey,8828774776,"Gachibowli, Ahmedabad",Delhi,Android
+51,Pooja Pandey,393657181,"Gachibowli, Mumbai",Delhi,Android
+52,Siddharth Gupta,1224083348,"Malviya Nagar, Mumbai",Mumbai,Android
+53,Rajesh Gupta,2537027368,"Malviya Nagar, Ahmedabad",Mumbai,Android
+54,Siddharth Pandey,7151636970,"Gachibowli, Hyderabad",Bangalore,Android
+55,Aarav Mehta,3594603251,"Satellite, Mumbai",Ahmedabad,Android
+56,Neha Chopra,5716844166,"Satellite, Pune",Mumbai,Android
+57,Amit Sharma,4396544714,"Civil Lines, Mumbai",Mumbai,Android
+58,Kavya Singh,3455560295,"Andheri West, Jaipur",Hyderabad,Android
+59,Ishani Gupta,9530346006,"Malviya Nagar, Ahmedabad",Delhi,Android
+60,Kavya Reddy,5003992233,"Satellite, Hyderabad",Ahmedabad,iOS
+61,Ishani Pandey,1156692378,"Malviya Nagar, Pune",Mumbai,Android
+62,Rajesh Khan,3030199317,"Gachibowli, Hyderabad",Kolkata,Android
+63,Siddharth Sharma,3849289142,"MG Road, Hyderabad",Chennai,Android
+64,Ananya Gupta,2177521018,"Civil Lines, Mumbai",Delhi,Android
+65,Siddharth Mehta,9561803150,"Satellite, Hyderabad",Bangalore,Android
+66,Pooja Sharma,8176394653,"Malviya Nagar, Hyderabad",Kolkata,Android
+67,Amit Gupta,8618527141,"Koramangala, Delhi",Ahmedabad,Android
+68,Neha Reddy,516365762,"Koramangala, Jaipur",Kolkata,Android
+69,Pooja Pandey,9737012697,"Andheri West, Mumbai",Mumbai,Android
+70,Ishani Mehta,1276523492,"Koramangala, Mumbai",Mumbai,Android
+71,Pooja Joshi,7598229457,"Civil Lines, Delhi",Pune,iOS
+72,Kavya Joshi,8325613453,"Andheri West, Hyderabad",Bangalore,Android
+73,Aarav Khan,8168254794,"MG Road, Hyderabad",Mumbai,Android
+74,Rohit Patel,9590335533,"Gachibowli, Ahmedabad",Delhi,iOS
+75,Neha Singh,335991550,"Andheri West, Mumbai",Pune,Android
+76,Neha Pandey,8369312421,"Civil Lines, Delhi",Delhi,Android
+77,Amit Sharma,2505597469,"Koramangala, Delhi",Chennai,Android
+78,Rohit Mehta,3623678186,"Malviya Nagar, Jaipur",Mumbai,Android
+79,Ananya Singh,8009915190,"Gachibowli, Bangalore",Bangalore,Android
+80,Siddharth Mehta,561679314,"Malviya Nagar, Bangalore",Delhi,Android
+81,Ananya Chopra,1237747658,"MG Road, Ahmedabad",Delhi,iOS
+82,Aarav Chopra,8909399436,"Andheri West, Bangalore",Mumbai,Android
+83,Aarav Khan,4306749938,"Civil Lines, Ahmedabad",Hyderabad,Android
+84,Ishani Singh,9790087856,"Gachibowli, Delhi",Mumbai,Android
+85,Siddharth Mehta,7073288490,"Civil Lines, Hyderabad",Delhi,iOS
+86,Neha Gupta,7805171617,"Malviya Nagar, Mumbai",Ahmedabad,Android
+87,Rohit Patel,4881818738,"MG Road, Jaipur",Bangalore,iOS
+88,Rajesh Khan,1484263519,"Satellite, Pune",Delhi,Android
+89,Rajesh Sharma,4364574128,"MG Road, Pune",Bangalore,Android
+90,Ananya Pandey,4383455887,"Satellite, Jaipur",Bangalore,Android
+91,Ananya Mehta,5242410073,"Gachibowli, Ahmedabad",Mumbai,Android
+92,Rohit Chopra,1706134273,"Gachibowli, Hyderabad",Hyderabad,iOS
+93,Siddharth Patel,9816855134,"Malviya Nagar, Hyderabad",Kolkata,Android
+94,Ishani Gupta,5205954435,"Koramangala, Pune",Bangalore,Android
+95,Ananya Reddy,3042992868,"Andheri West, Ahmedabad",Chennai,Android
+96,Aarav Joshi,8408232880,"Civil Lines, Delhi",Mumbai,Android
+97,Pooja Mehta,2978712294,"Satellite, Hyderabad",Mumbai,Android
+98,Rajesh Pandey,1452209969,"Koramangala, Ahmedabad",Jaipur,iOS
+99,Aarav Patel,46759681,"Andheri West, Mumbai",Delhi,iOS
+100,Pooja Chopra,5137176713,"Koramangala, Bangalore",Delhi,Android
+101,Neha Joshi,9341634580,"Andheri West, Delhi",Mumbai,Android
+102,Ishani Sharma,3498489874,"Satellite, Mumbai",Delhi,Android
+103,Kavya Mehta,8402260379,"Andheri West, Hyderabad",Kolkata,Android
+104,Amit Joshi,4969195522,"Gachibowli, Hyderabad",Delhi,Android
+105,Kavya Patel,2082088348,"MG Road, Jaipur",Mumbai,Android
+106,Neha Sharma,9661124164,"MG Road, Mumbai",Surat,Android
+107,Pooja Singh,5695452513,"Andheri West, Bangalore",Ahmedabad,Android
+108,Aarav Sharma,7784452797,"Malviya Nagar, Hyderabad",Mumbai,Android
+109,Kavya Joshi,6570697786,"Koramangala, Delhi",Mumbai,Android
+110,Rohit Reddy,5678588591,"MG Road, Ahmedabad",Mumbai,Android
+111,Ananya Joshi,1562843615,"Andheri West, Delhi",Ahmedabad,Android
+112,Rajesh Pandey,5458269912,"Andheri West, Bangalore",Hyderabad,Android
+113,Ananya Patel,7934939718,"Gachibowli, Ahmedabad",Bangalore,iOS
+114,Pooja Khan,6252385408,"Gachibowli, Bangalore",Kolkata,Android
+115,Kavya Sharma,8084530582,"MG Road, Hyderabad",Delhi,Android
+116,Aarav Pandey,5216010058,"Koramangala, Pune",Ahmedabad,Android
+117,Rajesh Reddy,7598588088,"Civil Lines, Jaipur",Kolkata,Android
+118,Ishani Pandey,7687171909,"Koramangala, Bangalore",Kolkata,Android
+119,Kavya Reddy,8485703885,"Satellite, Bangalore",Pune,Android
+120,Neha Singh,5779432674,"Andheri West, Pune",Delhi,Android
+121,Aarav Joshi,7425376802,"Malviya Nagar, Delhi",Delhi,Android
+122,Siddharth Sharma,6758802010,"Civil Lines, Bangalore",Mumbai,Android
+123,Amit Mehta,9086306903,"Malviya Nagar, Mumbai",Bangalore,Android
+124,Kavya Patel,2324112516,"Civil Lines, Jaipur",Ahmedabad,Android
+125,Ishani Chopra,7419792945,"Koramangala, Delhi",Mumbai,Android
+126,Aarav Singh,472402115,"MG Road, Pune",Kolkata,Android
+127,Siddharth Patel,8999114783,"MG Road, Pune",Pune,Android
+128,Siddharth Sharma,9312132497,"Gachibowli, Pune",Delhi,Android
+129,Aarav Patel,9840692134,"Koramangala, Pune",Delhi,Android
+130,Rohit Mehta,3237048488,"Andheri West, Mumbai",Delhi,Android
+131,Rajesh Pandey,4648167309,"Satellite, Hyderabad",Ahmedabad,Android
+132,Aarav Joshi,1298941489,"Gachibowli, Pune",Hyderabad,Android
+133,Ananya Reddy,6336061705,"Gachibowli, Pune",Delhi,Android
+134,Pooja Joshi,4467871611,"Gachibowli, Pune",Bangalore,Android
+135,Ishani Joshi,9923383910,"Gachibowli, Pune",Pune,Android
+136,Siddharth Mehta,434517656,"Andheri West, Delhi",Delhi,Android
+137,Pooja Singh,7817184996,"Andheri West, Ahmedabad",Hyderabad,Android
+138,Aarav Mehta,6481048120,"Malviya Nagar, Bangalore",Mumbai,Android
+139,Rohit Khan,323855028,"Malviya Nagar, Mumbai",Mumbai,Android
+140,Rajesh Chopra,9149654449,"Malviya Nagar, Bangalore",Hyderabad,Android
+141,Amit Joshi,3848413297,"Koramangala, Mumbai",Delhi,Android
+142,Rohit Sharma,5271171215,"Koramangala, Ahmedabad",Pune,Android
+143,Ananya Pandey,7089129382,"Satellite, Mumbai",Pune,Android
+144,Neha Joshi,5028524594,"Satellite, Mumbai",Mumbai,Android
+145,Siddharth Mehta,409132753,"MG Road, Ahmedabad",Kolkata,Android
+146,Pooja Patel,6307405051,"Malviya Nagar, Bangalore",Jaipur,Android
+147,Rohit Khan,7626491051,"Malviya Nagar, Jaipur",Pune,Android
+148,Ananya Reddy,2352862356,"Koramangala, Hyderabad",Delhi,Android
+149,Rajesh Gupta,6461589569,"Satellite, Hyderabad",Kolkata,Android
+150,Siddharth Sharma,6317164212,"MG Road, Hyderabad",Chennai,Android
+151,Siddharth Mehta,3661591196,"Andheri West, Jaipur",Delhi,Android
+152,Aarav Mehta,34592781,"Satellite, Delhi",Delhi,Android
+153,Kavya Pandey,5641239540,"Satellite, Jaipur",Bangalore,Android
+154,Amit Mehta,814139844,"MG Road, Hyderabad",Kolkata,Android
+155,Rajesh Singh,468292990,"Malviya Nagar, Jaipur",Surat,Android
+156,Aarav Reddy,8828904203,"MG Road, Bangalore",Pune,Android
+157,Rohit Gupta,4722417158,"Koramangala, Pune",Mumbai,Android
+158,Ishani Khan,8339438562,"MG Road, Pune",Delhi,Android
+159,Pooja Gupta,5320914320,"Malviya Nagar, Hyderabad",Surat,Android
+160,Aarav Chopra,6759161028,"Malviya Nagar, Ahmedabad",Mumbai,Android
+161,Amit Singh,3707129598,"Malviya Nagar, Ahmedabad",Mumbai,Android
+162,Kavya Pandey,7585952122,"Malviya Nagar, Mumbai",Delhi,Android
+163,Rajesh Khan,6903961149,"Satellite, Hyderabad",Delhi,Android
+164,Kavya Mehta,5693949304,"Civil Lines, Mumbai",Hyderabad,Android
+165,Ananya Singh,2184604300,"MG Road, Mumbai",Kolkata,Android
+166,Kavya Reddy,7895539021,"Koramangala, Mumbai",Bangalore,Android
+167,Pooja Pandey,2294143563,"Satellite, Delhi",Mumbai,Android
+168,Siddharth Gupta,7434731020,"Satellite, Pune",Bangalore,Android
+169,Aarav Joshi,9166621472,"Koramangala, Hyderabad",Kolkata,Android
+170,Ananya Chopra,6960615454,"MG Road, Hyderabad",Hyderabad,Android
+171,Siddharth Gupta,3826567122,"Satellite, Ahmedabad",Pune,Android
+172,Ishani Joshi,2378422105,"Civil Lines, Jaipur",Pune,Android
+173,Neha Gupta,6738486788,"Satellite, Pune",Mumbai,Android
+174,Siddharth Joshi,1566487392,"Malviya Nagar, Ahmedabad",Hyderabad,Android
+175,Ananya Mehta,9755231118,"Andheri West, Jaipur",Surat,Android
+176,Ishani Singh,59088351,"MG Road, Delhi",Delhi,Android
+177,Pooja Mehta,7366337216,"Malviya Nagar, Pune",Delhi,Android
+178,Aarav Joshi,6195381136,"Koramangala, Delhi",Pune,Android
+179,Pooja Reddy,5836865078,"MG Road, Ahmedabad",Ahmedabad,Android
+180,Siddharth Mehta,6812482542,"MG Road, Ahmedabad",Kolkata,Android
+181,Rajesh Gupta,1763652614,"Malviya Nagar, Ahmedabad",Mumbai,Android
+182,Rajesh Mehta,3130627562,"Andheri West, Delhi",Hyderabad,iOS
+183,Neha Mehta,2195613319,"MG Road, Mumbai",Delhi,Android
+184,Rajesh Pandey,1807530529,"Satellite, Mumbai",Bangalore,Android
+185,Ishani Joshi,3284627506,"Koramangala, Hyderabad",Bangalore,Android
+186,Amit Patel,5603460173,"Andheri West, Mumbai",Kolkata,Android
+187,Amit Patel,1902626122,"Gachibowli, Hyderabad",Bangalore,Android
+188,Kavya Pandey,695092369,"Gachibowli, Delhi",Mumbai,Android
+189,Kavya Chopra,6776904495,"Satellite, Hyderabad",Hyderabad,Android
+190,Kavya Mehta,6495687138,"Koramangala, Ahmedabad",Bangalore,iOS
+191,Amit Chopra,2011121682,"Andheri West, Mumbai",Hyderabad,Android
+192,Pooja Khan,9714924576,"Koramangala, Delhi",Mumbai,Android
+193,Neha Gupta,247892613,"Andheri West, Pune",Hyderabad,Android
+194,Rohit Khan,1398969720,"Koramangala, Bangalore",Mumbai,Android
+195,Ishani Gupta,5731779451,"Civil Lines, Mumbai",Pune,Android
+196,Ishani Sharma,1184384779,"Koramangala, Bangalore",Chennai,Android
+197,Ananya Singh,7337253834,"Satellite, Jaipur",Kolkata,Android
+198,Siddharth Singh,4497151113,"Civil Lines, Mumbai",Mumbai,Android
+199,Aarav Singh,6428516182,"MG Road, Mumbai",Delhi,Android
+200,Rohit Gupta,634576287,"Satellite, Delhi",Delhi,Android
+201,Aarav Pandey,4486576987,"Civil Lines, Delhi",Mumbai,Android
+202,Ananya Pandey,2227725002,"Satellite, Mumbai",Pune,Android
+203,Rajesh Patel,683067320,"Gachibowli, Hyderabad",Delhi,Android
+204,Aarav Khan,5505179605,"Gachibowli, Pune",Jaipur,Android
+205,Pooja Singh,3290472677,"Gachibowli, Pune",Bangalore,Android
+206,Pooja Singh,5855895985,"Satellite, Delhi",Delhi,Android
+207,Pooja Gupta,3488605022,"Andheri West, Bangalore",Ahmedabad,Android
+208,Siddharth Gupta,9519862819,"Koramangala, Pune",Ahmedabad,Android
+209,Rohit Patel,8958895956,"Satellite, Mumbai",Mumbai,Android
+210,Neha Gupta,3080136906,"Satellite, Delhi",Mumbai,Android
+211,Siddharth Chopra,9035403099,"Koramangala, Ahmedabad",Mumbai,Android
+212,Ananya Singh,7461667145,"Malviya Nagar, Jaipur",Mumbai,Android
+213,Kavya Patel,632911224,"Gachibowli, Ahmedabad",Kolkata,Android
+214,Pooja Chopra,603727831,"Andheri West, Ahmedabad",Delhi,Android
+215,Pooja Chopra,9411675918,"Koramangala, Ahmedabad",Mumbai,Android
+216,Neha Mehta,8366790386,"Koramangala, Mumbai",Mumbai,Android
+217,Rohit Singh,2395752328,"MG Road, Ahmedabad",Mumbai,Android
+218,Ishani Gupta,3734387957,"Civil Lines, Delhi",Pune,Android
+219,Neha Chopra,6243165270,"Satellite, Bangalore",Delhi,Android
+220,Neha Patel,1750129456,"Satellite, Delhi",Jaipur,Android
+221,Ananya Patel,7603878937,"Koramangala, Mumbai",Delhi,Android
+222,Pooja Singh,3831184729,"Civil Lines, Delhi",Ahmedabad,Android
+223,Pooja Pandey,5867405894,"Satellite, Jaipur",Mumbai,Android
+224,Amit Singh,8777453420,"MG Road, Bangalore",Delhi,Android
+225,Ishani Gupta,9406740074,"Satellite, Jaipur",Delhi,iOS
+226,Ananya Joshi,2035665988,"Satellite, Delhi",Kolkata,Android
+227,Neha Sharma,7250802849,"Satellite, Delhi",Mumbai,Android
+228,Rohit Gupta,8719259258,"Andheri West, Jaipur",Pune,Android
+229,Pooja Patel,2458789672,"Malviya Nagar, Jaipur",Delhi,Android
+230,Ananya Joshi,7602439724,"Gachibowli, Bangalore",Pune,Android
+231,Amit Reddy,4208442664,"Andheri West, Pune",Surat,Android
+232,Aarav Pandey,7944879993,"Gachibowli, Hyderabad",Bangalore,iOS
+233,Rohit Gupta,814926806,"Andheri West, Pune",Mumbai,Android
+234,Rajesh Sharma,1232125854,"Civil Lines, Hyderabad",Delhi,iOS
+235,Ananya Patel,4914149739,"Koramangala, Hyderabad",Hyderabad,Android
+236,Ishani Gupta,2585896266,"Satellite, Hyderabad",Delhi,Android
+237,Siddharth Khan,3856492417,"Malviya Nagar, Mumbai",Chennai,Android
+238,Neha Singh,3023217995,"Satellite, Ahmedabad",Hyderabad,Android
+239,Rajesh Gupta,4067930452,"Gachibowli, Jaipur",Mumbai,Android
+240,Aarav Gupta,3699692429,"MG Road, Hyderabad",Hyderabad,Android
+241,Siddharth Sharma,9943911490,"MG Road, Delhi",Mumbai,Android
+242,Kavya Gupta,4622536354,"Civil Lines, Pune",Mumbai,Android
+243,Amit Khan,3532628253,"Malviya Nagar, Bangalore",Mumbai,Android
+244,Amit Chopra,9995982626,"Satellite, Ahmedabad",Bangalore,Android
+245,Pooja Sharma,5231558340,"Andheri West, Delhi",Delhi,Android
+246,Pooja Patel,8283845737,"Andheri West, Pune",Mumbai,Android
+247,Rohit Sharma,4015232675,"Gachibowli, Hyderabad",Delhi,Android
+248,Kavya Khan,7582288925,"Civil Lines, Pune",Mumbai,Android
+249,Pooja Pandey,7293964396,"Gachibowli, Hyderabad",Bangalore,Android
+250,Rohit Khan,7118631153,"Satellite, Jaipur",Hyderabad,Android
+251,Amit Reddy,2094803826,"Andheri West, Delhi",Pune,iOS
+252,Neha Pandey,1551874062,"Koramangala, Pune",Kolkata,Android
+253,Ananya Khan,2789360905,"MG Road, Jaipur",Mumbai,Android
+254,Siddharth Pandey,6493149948,"Koramangala, Ahmedabad",Pune,Android
+255,Rajesh Joshi,166491537,"Andheri West, Mumbai",Mumbai,Android
+256,Aarav Mehta,1164228436,"Civil Lines, Ahmedabad",Pune,Android
+257,Amit Joshi,6204919463,"Gachibowli, Mumbai",Ahmedabad,Android
+258,Ishani Chopra,1680852590,"Gachibowli, Jaipur",Pune,Android
+259,Amit Joshi,9372562933,"Koramangala, Hyderabad",Bangalore,Android
+260,Ishani Sharma,7257761993,"Andheri West, Hyderabad",Mumbai,Android
+261,Rajesh Sharma,3198586080,"Malviya Nagar, Hyderabad",Hyderabad,Android
+262,Pooja Sharma,2264098607,"Andheri West, Delhi",Delhi,Android
+263,Ishani Mehta,962738602,"Koramangala, Jaipur",Hyderabad,iOS
+264,Rohit Gupta,8739818310,"Malviya Nagar, Delhi",Jaipur,Android
+265,Ishani Khan,2396176815,"Koramangala, Mumbai",Kolkata,Android
+266,Ishani Sharma,1103094853,"Civil Lines, Bangalore",Hyderabad,Android
+267,Siddharth Reddy,7250978609,"Andheri West, Ahmedabad",Hyderabad,Android
+268,Aarav Sharma,911448796,"Andheri West, Mumbai",Mumbai,Android
+269,Ishani Joshi,8235554091,"Koramangala, Bangalore",Mumbai,Android
+270,Ananya Gupta,4195752139,"Civil Lines, Hyderabad",Delhi,Android
+271,Ishani Khan,3420851450,"Andheri West, Mumbai",Mumbai,Android
+272,Neha Mehta,8036798050,"Malviya Nagar, Delhi",Delhi,Android
+273,Rajesh Sharma,1080118875,"MG Road, Hyderabad",Delhi,Android
+274,Amit Patel,7503916239,"Gachibowli, Delhi",Jaipur,Android
+275,Amit Khan,4523595171,"Satellite, Delhi",Hyderabad,Android
+276,Ishani Joshi,3953080276,"Koramangala, Pune",Hyderabad,Android
+277,Ananya Khan,8809239112,"Andheri West, Hyderabad",Hyderabad,Android
+278,Rohit Reddy,9829375012,"MG Road, Delhi",Mumbai,Android
+279,Rohit Pandey,7597935537,"Civil Lines, Mumbai",Delhi,Android
+280,Ananya Khan,2892404331,"Koramangala, Jaipur",Delhi,Android
+281,Amit Singh,799720305,"Satellite, Pune",Kolkata,Android
+282,Amit Patel,9051506771,"Andheri West, Pune",Delhi,iOS
+283,Rajesh Patel,838255228,"Civil Lines, Ahmedabad",Jaipur,Android
+284,Aarav Patel,3518746803,"Gachibowli, Hyderabad",Kolkata,Android
+285,Rohit Reddy,4475806241,"Andheri West, Hyderabad",Bangalore,Android
+286,Ishani Patel,3575428077,"Satellite, Bangalore",Delhi,Android
+287,Ananya Joshi,5670370778,"Malviya Nagar, Mumbai",Mumbai,Android
+288,Aarav Patel,9420736368,"Malviya Nagar, Jaipur",Ahmedabad,Android
+289,Rajesh Gupta,4639958288,"Gachibowli, Delhi",Delhi,Android
+290,Ananya Mehta,3698297342,"MG Road, Ahmedabad",Pune,Android
+291,Ishani Khan,6507559195,"Gachibowli, Pune",Surat,iOS
+292,Ishani Joshi,1089307337,"Satellite, Hyderabad",Kolkata,Android
+293,Kavya Mehta,5525811266,"Koramangala, Pune",Delhi,Android
+294,Rohit Khan,4440347525,"Satellite, Ahmedabad",Mumbai,Android
+295,Rajesh Mehta,5072912072,"Koramangala, Jaipur",Mumbai,Android
+296,Rohit Sharma,6671028571,"Gachibowli, Bangalore",Kolkata,Android
+297,Siddharth Joshi,6721377969,"Malviya Nagar, Pune",Mumbai,iOS
+298,Aarav Sharma,6633244842,"Andheri West, Ahmedabad",Delhi,Android
+299,Pooja Gupta,8413555089,"Civil Lines, Delhi",Mumbai,iOS
+300,Rajesh Sharma,640341465,"MG Road, Delhi",Delhi,Android
